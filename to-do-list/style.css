@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	color: ;
+	font-family: 'PT Sans', sans-serif;
+	text-align: center;
+	font-size: 100%;
+}
+
+header {
+	color: #EF476F;
+}
+
+h2 {
+	color: #118AB2;
+}
+
+ul {
+	list-style-type: none;
+	margin-left: 0;
+}
+
+
